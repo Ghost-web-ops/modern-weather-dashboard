@@ -2,7 +2,7 @@
 
 A clean, responsive, and modern weather application interface built to display live weather data. This project was created to practice and showcase skills in modern frontend development using a popular and efficient tech stack.
 
-[**Live Demo**](https://your-deployment-link.vercel.app) ⬅️ *(You can add your Vercel deployment link here later)*
+[**Live Demo**](https://modern-weather-dashboard.vercel.app/) ⬅️ *(You can add your Vercel deployment link here later)*
 
 ## ✨ Features
 
@@ -31,11 +31,11 @@ A clean, responsive, and modern weather application interface built to display l
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/[YOUR_REPO_NAME].git
+    git clone https://github.com/Ghost-web-ops/modern-weather-dashboard.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd [YOUR_REPO_NAME]
+    cd modern-weather-dashboard
     ```
 3.  **Install dependencies:**
     ```bash
@@ -56,5 +56,5 @@ The app will be available at `http://localhost:5173`.
 
 ## 🖼️ Preview
 
-![Weather App Screenshot](./public/screenshot.png) 
+![Weather App Screenshot](./public/image.png) 
 *(You can place a screenshot of the app in the `public` folder and update this path)*
